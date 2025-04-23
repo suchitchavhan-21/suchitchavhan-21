@@ -57,7 +57,7 @@ I’m currently listening to TRAVIS SCOTT! 🎶
 
 ## 📫 Let's Connect
 
-<p align="center"> <a href="https://www.linkedin.com/in/suchit-chavhan-3272111b8/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:ganpatinath07@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/suchit-chavhan-3272111b8/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:suchitchavhan889@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 
 ---
 

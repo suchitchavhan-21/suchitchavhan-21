@@ -62,7 +62,7 @@ I’m currently listening to TRAVIS SCOTT! 🎶
 ---
 
 ## 📈 LeetCode Stats
-<p align="center"> <img src="https://leetcard.jacoblin.cool/ganpatinath07?ext=contest" alt="Leetcode Stats" /> </p>
+<p align="center"> <img src="https://leetcard.jacoblin.cool/suchitchavhan-21?ext=contest" alt="Leetcode Stats" /> </p>
 
 ---
 

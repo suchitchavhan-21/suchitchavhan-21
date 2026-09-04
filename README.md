@@ -1,81 +1,135 @@
-<!-- HEADER --> <h1 align="center">Hey there 👋, I'm <span style="color:#f75c7e;">Suchit Chavhan</span></h1> <h3 align="center">🚀 Tech Explorer | 💡 Lifelong Learner | 🧠 AI Enthusiast</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&lines=⚡+Engineer+in+the+Making;🌐+Full-stack+Developer;🤖+AI+%2B+ML+Explorer;🎯+Focused+on+Growth+%26+Impact" alt="Typing SVG" /> </p>
+# 👋 Hi, I'm Suchit Chavhan
+
+### AI/ML & Full-Stack Developer building practical AI-powered applications
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/suchit-chavhan-3272111b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:suchitchavhan889@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=700&lines=Building+AI-powered+applications;Exploring+Machine+Learning+%26+GenAI;Full-Stack+Development+with+Python+%26+JavaScript;Turning+ideas+into+working+software" />
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-🎓 Pursuing B.Tech in Computer Science & Engineering at Lovely Professional University
--💻 Passionate Software Developer with a knack for:
--🤖 Machine Learning (especially Reinforcement Learning)
--🌐 MERN Stack Development
--🧠 Natural Language Processing (NLP)
--📈 Data Structures & Algorithms (DSA)
+I'm a Computer Science & Engineering student focused on building software that combines **AI, machine learning, and modern web technologies**.
 
-🔍 I thrive in solving real-world problems with innovative, scalable solutions.
-🚀 Whether it's a solo build or a team hustle, I aim to deliver high-performance tech that creates impact.
+My interests include:
 
-🧩 Always exploring, learning, and building for tomorrow’s world.
-🎯 Vision: To design solutions that solve today's problems and anticipate tomorrow’s needs.
+* 🤖 Artificial Intelligence & Generative AI
+* 🧠 Machine Learning & Deep Learning
+* 🔎 NLP, RAG & AI agents
+* 🌐 Full-Stack Web Development
+* 🐍 Python development
+* 🧩 Data Structures & Algorithms
+* 🚀 Building practical, end-to-end software projects
 
-💬 Ask me about:
-- 📌 AI, ML, Deep Learning
-- 🛠 Python, Web Dev, GitHub tricks
-- 📚 Productivity hacks & smart learning
+I enjoy taking a problem from **idea → architecture → implementation → deployment** and continuously improving the system based on real-world requirements.
 
 ---
 
-## 🎮 Flappy Bird Game
+## 🚀 Featured Project
+
+### 🤖 Recruiter AI Pro
+
+An AI-powered recruitment platform designed to assist with the hiring workflow using structured AI analysis and adaptive interview capabilities.
+
+**Key areas:**
+
+* 📄 Job description analysis
+* 👤 Resume parsing and candidate analysis
+* 🔎 RAG-based information retrieval
+* 🤖 Adaptive AI interview agent
+* 📊 Structured hiring evaluation
+* 🧠 AI-driven candidate insights
+* 🛡️ Schema validation for reliable AI outputs
+* 🔄 Model fallback and resilience
+
+**Tech:** `Python` `TypeScript` `React` `Node.js` `Gemini` `RAG` `LLMs` `Zod`
+
+🔗 **Repository:**
+https://github.com/suchitchavhan-21/Recruiter-AI-Pro
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+`Machine Learning` `Deep Learning` `NLP` `Generative AI` `RAG` `LLMs` `AI Agents`
+
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://flappybird.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Start%20Game-Click%20Here-ff69b4?style=for-the-badge&logo=game-controller&logoColor=white">
+  <img src="https://github-readme-stats.vercel.app/api?username=suchitchavhan-21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchitchavhan-21&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🧩 Problem Solving
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/suchitchavhan-21?ext=contest" alt="Suchit Chavhan LeetCode Stats"/>
+</p>
+
+I use problem solving and DSA practice to strengthen my ability to design efficient and reliable solutions.
+
+---
+
+## 🎯 What I'm Currently Focused On
+
+* Building production-oriented AI applications
+* Improving my understanding of LLM systems
+* Exploring RAG and AI agent architectures
+* Strengthening Machine Learning fundamentals
+* Improving system design and backend development
+* Solving DSA problems consistently
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/suchit-chavhan-3272111b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:suchitchavhan889@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-## 🎭 Fun Facts
-
 <p align="center">
-  <ul style="list-style-type: none; color: #f75c7e; font-size: 18px; font-weight: bold;">
-    <li>🧠 I love diving into new tech and exploring unknown horizons.</li>
-    <li>🎧 Music fuels my productivity, especially lo-fi beats while coding.</li>
-    <li>☕ Coffee is my coding companion, and bugs are my nemesis.</li>
-    <li>🛸 I'm passionate about building tech that simplifies life.</li>
-  </ul>
+  <i>Building, learning, and shipping — one project at a time.</i>
 </p>
-
----
-
-🎧 What’s Playing?
-
-I’m currently listening to TRAVIS SCOTT! 🎶
-
-🎧 [Listen to Travis Scott – TIL FURTHER NOTICE ](https://youtu.be/zptRsa1pqsk?si=WEUnrxLJd-Ml11XC)
-
----
-
-## 📫 Let's Connect
-
-<p align="center"> <a href="https://www.linkedin.com/in/suchit-chavhan-3272111b8/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:suchitchavhan889@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
-
----
-
-## 📈 LeetCode Stats
-<p align="center"> <img src="https://leetcard.jacoblin.cool/suchitchavhan-21?ext=contest" alt="Leetcode Stats" /> </p>
-
----
-
-<!-- Profile Visitors Counter --> <p align="center"> <img src="https://profile-counter.glitch.me/Ganpati-Nath/count.svg" alt="Profile Visitors" /> </p>
-
----
-
-🎬 Bored? Let's dive into some anime adventures!  
-
-[![Anime](https://img.shields.io/badge/Anime-FC4C9C?style=for-the-badge&logo=anime&logoColor=white)](https://hianimez.to/home)
-
----
-
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 12px;" /> </p> <h3 align="center">⚡ Building the future, one line of code at a time ⚡</h3>
-
----

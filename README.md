@@ -1,35 +1,39 @@
 # 👋 Hi, I'm Suchit Chavhan
 
-### AI/ML & Full-Stack Developer building practical AI-powered applications
+### 🤖 AI/ML & Full-Stack Developer | Building Practical AI-Powered Applications
 
 <p align="left">
   <a href="https://www.linkedin.com/in/suchit-chavhan-3272111b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:suchitchavhan889@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/suchitchavhan-21">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=700&lines=Building+AI-powered+applications;Exploring+Machine+Learning+%26+GenAI;Full-Stack+Development+with+Python+%26+JavaScript;Turning+ideas+into+working+software" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=750&lines=Building+AI-powered+applications;Exploring+Machine+Learning+%26+Generative+AI;Full-Stack+Development+with+Python+%26+TypeScript;Turning+ideas+into+working+software" alt="Typing animation"/>
 
 ---
 
 ## 🧠 About Me
 
-I'm a Computer Science & Engineering student focused on building software that combines **AI, machine learning, and modern web technologies**.
+I'm a Computer Science & Engineering student focused on **Artificial Intelligence, Machine Learning, Generative AI, and Full-Stack Development**.
 
-My interests include:
+I enjoy building complete software systems — from understanding a problem and designing the architecture to implementing, testing, and improving the final product.
+
+### Currently focused on
 
 * 🤖 Artificial Intelligence & Generative AI
 * 🧠 Machine Learning & Deep Learning
-* 🔎 NLP, RAG & AI agents
+* 🔎 NLP, RAG & LLM applications
+* 🧩 AI Agents and adaptive systems
 * 🌐 Full-Stack Web Development
 * 🐍 Python development
-* 🧩 Data Structures & Algorithms
-* 🚀 Building practical, end-to-end software projects
-
-I enjoy taking a problem from **idea → architecture → implementation → deployment** and continuously improving the system based on real-world requirements.
+* 📊 Data Structures & Algorithms
+* 🚀 Building practical, production-oriented projects
 
 ---
 
@@ -37,23 +41,25 @@ I enjoy taking a problem from **idea → architecture → implementation → dep
 
 ### 🤖 Recruiter AI Pro
 
-An AI-powered recruitment platform designed to assist with the hiring workflow using structured AI analysis and adaptive interview capabilities.
+An AI-powered recruitment platform designed to improve the candidate screening and interview workflow.
 
-**Key areas:**
+### Key Features
 
 * 📄 Job description analysis
 * 👤 Resume parsing and candidate analysis
-* 🔎 RAG-based information retrieval
+* 🔎 Retrieval-Augmented Generation (RAG)
 * 🤖 Adaptive AI interview agent
-* 📊 Structured hiring evaluation
-* 🧠 AI-driven candidate insights
-* 🛡️ Schema validation for reliable AI outputs
-* 🔄 Model fallback and resilience
+* 📊 Structured candidate evaluation
+* 🧠 AI-generated hiring insights
+* 🛡️ Schema validation for structured AI responses
+* 🔄 AI model fallback and resilience
+* ⚡ End-to-end recruitment workflow
 
-**Tech:** `Python` `TypeScript` `React` `Node.js` `Gemini` `RAG` `LLMs` `Zod`
+### Technology
 
-🔗 **Repository:**
-https://github.com/suchitchavhan-21/Recruiter-AI-Pro
+`TypeScript` `React` `Node.js` `Python` `Gemini` `RAG` `LLMs` `Zod`
+
+🔗 **[View Repository](https://github.com/suchitchavhan-21/Recruiter-AI-Pro)**
 
 ---
 
@@ -62,69 +68,76 @@ https://github.com/suchitchavhan-21/Recruiter-AI-Pro
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp" alt="Programming Languages"/>
 </p>
 
-### AI / Machine Learning
+### AI & Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI and Machine Learning"/>
 </p>
 
-`Machine Learning` `Deep Learning` `NLP` `Generative AI` `RAG` `LLMs` `AI Agents`
+`Machine Learning` · `Deep Learning` · `NLP` · `Generative AI` · `RAG` · `LLMs` · `AI Agents`
 
 ### Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css" alt="Web Development"/>
 </p>
 
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suchitchavhan-21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchitchavhan-21&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" alt="Tools and Platforms"/>
 </p>
 
 ---
 
 ## 🧩 Problem Solving
 
+I regularly practice **Data Structures & Algorithms** to improve problem-solving, algorithm design, and coding efficiency.
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/suchitchavhan-21?ext=contest" alt="Suchit Chavhan LeetCode Stats"/>
+  <a href="https://leetcode.com/u/suchitchavhan-21/">
+    <img src="https://leetcard.jacoblin.cool/suchitchavhan-21?ext=contest" alt="Suchit Chavhan LeetCode Stats"/>
+  </a>
 </p>
 
-I use problem solving and DSA practice to strengthen my ability to design efficient and reliable solutions.
+---
+
+## 🎯 Current Goals
+
+* Build stronger production-ready AI systems
+* Deepen my understanding of LLM architecture
+* Explore RAG and AI agent systems
+* Strengthen Machine Learning fundamentals
+* Improve backend and system design skills
+* Build and deploy more end-to-end projects
+* Continue improving DSA and problem-solving skills
 
 ---
 
-## 🎯 What I'm Currently Focused On
+## 📌 What I Like Building
 
-* Building production-oriented AI applications
-* Improving my understanding of LLM systems
-* Exploring RAG and AI agent architectures
-* Strengthening Machine Learning fundamentals
-* Improving system design and backend development
-* Solving DSA problems consistently
+```text
+AI Applications        ████████████████████
+Machine Learning       ██████████████████
+Generative AI          ███████████████████
+Full-Stack Development █████████████████
+Backend Systems        ████████████████
+Problem Solving        █████████████████
+```
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/suchit-chavhan-3272111b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:suchitchavhan889@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
